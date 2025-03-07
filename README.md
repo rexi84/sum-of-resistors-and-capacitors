@@ -1,1 +1,1 @@
-# sum-of-resistors-and-capacitors
+# Sum-of-Resistors-and-Capacitors
